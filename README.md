@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Gurram Mohan
 
 <p align="center">
-  <img src="" alt="Gurram Mohan" width="200">
+  <img src="assets/profile.jpg" alt="Gurram Mohan" width="220" style="border-radius:50%;">
 </p>
 
 ## 🎥 Self-Introduction Video Repository
