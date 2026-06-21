@@ -1,9 +1,5 @@
 # 👋 Hello, I'm Gurram Mohan
 
-<p align="center">
-  <img src="assets/profile.jpg" alt="Gurram Mohan" width="220" style="border-radius:50%;">
-</p>
-
 ## 🎥 Self-Introduction Video Repository
 
 Welcome to my self-introduction repository. This repository contains my introduction video along with a brief overview of my academic journey, technical skills, projects, achievements, and career aspirations.
